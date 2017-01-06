@@ -1,0 +1,15 @@
+.c-pagination {
+  font-size: $small-font-size;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.c-dropdown-pagelimit {
+  input {
+    font-size: $small-font-size;
+  }
+
+  width: 40px;
+  margin: 0 $unit;
+}
